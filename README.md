@@ -29,7 +29,7 @@
 
 ## Video
 
-*To view you can visit* 
+*Puedes visitar el juego en Youtube dando click* 
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/KrF2nqvy3YM/0.jpg)](https://www.youtube.com/watch?v=KrF2nqvy3YM&ab_channel=GianniLucasCerd%C3%A1)
 
@@ -47,7 +47,7 @@
 
 ## Final Words
 
-If you like the game, please give it a star. It will mean a lot for me :) ✨😁
+Si te gusto el juego , dale a la estrella ⭐, gracias!  :) ✨😁
 
 ## License
 
